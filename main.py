@@ -1,9 +1,5 @@
 import random
 import dill as pickle
-'''
-сохранение/загрузка
-добавить UI/UX
-'''
 
 
 class Cell:
