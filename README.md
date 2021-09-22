@@ -1,1 +1,2 @@
-Implementation of the game minesweeper, as part of the ML&DL entrance exam. Autumn 2021
+#MineSweeper
+Implementation of the Minesweeper console game, as part of the Tinkoff ML&DL entrance exam. Autumn 2021
